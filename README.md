@@ -1,7 +1,7 @@
 include MinHook yourself<br>
 github.com/TsudaKageyu/minhook
 
-     ME AND ДЕНУФКО (WHO?)<br>
+     ME AND ДЕНУФКО (WHO?)
 ⠀⠀⠀⠀⣼⣿⣿⣿⣷⡀<br>
 ⠀⠀⢀⣼⣿⣿⣿⣿⣿⡇<br>
 ⠀⢀⣾⣿⣿⣿⣿⣿⣿⣷<br>
