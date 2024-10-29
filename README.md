@@ -1,6 +1,8 @@
 include MinHook yourself<br>
 github.com/TsudaKageyu/minhook
 
+(вы пидор если не указываете авторов при использовании исходного кода где-либо)
+
      ME AND ДЕНУФКО (WHO?)
 ⠀⠀⠀⠀⣼⣿⣿⣿⣷⡀<br>
 ⠀⠀⢀⣼⣿⣿⣿⣿⣿⡇<br>
